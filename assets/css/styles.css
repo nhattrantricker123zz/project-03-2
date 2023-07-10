@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6rem;
+    font-family: 'Public Sans', sans-serif;
+}
+
+.container{
+    width: 1140px;
+    max-width: calc(100% - 48px);
+    margin: 0 auto;
+}
+
+
+/* header */
+
+.header{
+    
+}
